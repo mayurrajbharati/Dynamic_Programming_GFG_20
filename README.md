@@ -1,5 +1,5 @@
 # Dynamic_Programming_GFG_20
-This repository consists of C++ codes for all the Top 20 Dynamic Programming Problems available in GeeksForGeeks
+This repository consists of C++ codes for all the Top 20 Dynamic Programming Problems available in GeeksForGeeks.
 I have done the code using C++ language in bottom-up approach with memoization, i.e., using a DP table.
 I have focussed on the optimal substructure and solving this subproblems instead of memorizing the recursive function.
 
